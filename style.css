@@ -26,7 +26,6 @@
     display: flex;
     padding: 20px;
     justify-content: space-between;
-    width: 80%;
     margin-top: 50px;
 }
 .card{
@@ -65,7 +64,7 @@ right: 10px;
     border-top: 3px solid hsl(212, 86%, 64%);
 }
 
-@media (max-width:1250px) {
+@media (max-width:975px) {
     .cards{
         width: 100%;
         flex-direction: column;
